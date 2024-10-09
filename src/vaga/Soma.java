@@ -12,6 +12,7 @@ public class Soma {
           
         }
         System.out.println("Ao final, o valor da soma será " + SOMA);
+        ///A soma será 77
 
     } 
      
